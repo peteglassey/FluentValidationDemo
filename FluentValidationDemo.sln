@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidationDemo", "FluentValidationDemo\FluentValidationDemo.csproj", "{75A9B989-A232-4C5E-B7C3-D64EAD13D504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A9B989-A232-4C5E-B7C3-D64EAD13D504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A9B989-A232-4C5E-B7C3-D64EAD13D504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A9B989-A232-4C5E-B7C3-D64EAD13D504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A9B989-A232-4C5E-B7C3-D64EAD13D504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
